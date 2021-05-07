@@ -4,13 +4,13 @@
 
 `Excel`文件列表：
 
-- [2-11_梯度下降法.xlsx](2-11_梯度下降法.xlsx)
-- [3-5_NN（求解器）.xlsx](3-5_NN（求解器）.xlsx)
-- [4-4_NN（误差反向传播法）.xlsx](4-4_NN（误差反向传播法）.xlsx)
-- [5-4_CNN（求解器）.xlsx](5-4_CNN（求解器）.xlsx)
-- [5-6_CNN（误差反向传播法）.xlsx](5-6_CNN（误差反向传播法）.xlsx)
-- [附录A.xlsx](附录A.xlsx)
-- [附录B.xlsx](附录B.xlsx)
+- [2-11_梯度下降法.xlsx](excels/2-11_梯度下降法.xlsx)
+- [3-5_NN（求解器）.xlsx](excels/3-5_NN（求解器）.xlsx)
+- [4-4_NN（误差反向传播法）.xlsx](excels/4-4_NN（误差反向传播法）.xlsx)
+- [5-4_CNN（求解器）.xlsx](excels/5-4_CNN（求解器）.xlsx)
+- [5-6_CNN（误差反向传播法）.xlsx](excels/5-6_CNN（误差反向传播法）.xlsx)
+- [附录A.xlsx](excels/附录A.xlsx)
+- [附录B.xlsx](excels/附录B.xlsx)
 
 ## 个人的阅读感受
 
